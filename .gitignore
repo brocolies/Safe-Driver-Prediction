@@ -1,0 +1,13 @@
+# 데이터
+*.csv
+
+# 캐시
+__pycache__/
+*.pyc
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# 폴더 무시
+data/
+outputs/
